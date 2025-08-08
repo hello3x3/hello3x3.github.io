@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jiuhe Shu / hello3x3"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jiuhe Shu | 束九禾"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "hello3x3.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Jiuheshu.jpg"
+  avatar           : "JiuheShu.png"
   name             : "Jiuhe Shu | 束九禾"
   pronouns         : # example: "she/her"  
   bio              : "An undergraduate student at NWPU, majoring in AI."
