@@ -1,8 +1,14 @@
 services:
   jekyll-site:
     image: jekyll-site
-    build: .
+    build:
+      context: .
+      network: host
+      args:
+        http_proxy: "${http_proxy}"
+    network_mode: host
     volumes: [ .:/usr/src/app ]
-    ports: [ 4000:4000 ]
+    ports:
+      - "0.0.0.0:80:4000"
     user: 1000:1000
     command: jekyll serve -H 0.0.0.0 -w
