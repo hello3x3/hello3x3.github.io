@@ -286,7 +286,7 @@ Experiences
   <div class="experience-card">
       <img src="../images/NWPU.png" alt="NWPU logo" class="experience-logo">
       <div class="experience-info">
-          <strong><a href="https://en.nwpu.edu.cn/" target="_blank">西北工业大学</strong><br>
+          <strong><a href="https://en.nwpu.edu.cn/" target="_blank">西北工业大学</a></strong><br>
           2022.09 - 2026.06<br>
           工学学士，导师 <a href="https://teacher.nwpu.edu.cn/pengwang.html" target="_blank"><em>王鹏教授</em></a>
       </div>

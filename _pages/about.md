@@ -342,7 +342,7 @@ Projects
 ======
 
 <div class="project-item">
-<div class="project-title"><a href="https://www.asc-events.net/StudentChallenge/History/2025/index.html" target="_blank">🖥️ ASC Student Supercomputer Challenge</div>
+<div class="project-title"><a href="https://www.asc-events.net/StudentChallenge/History/2025/index.html" target="_blank">🖥️ ASC Student Supercomputer Challenge</a></div>
 <div class="project-meta">ASC25 International First Prize | NWPU Supercomputing Team Captain | Dec 2024 - May 2025</div>
 <p>Fully responsible for the design and implementation of the team's technical scheme in the ASC Supercomputer Challenge. For the AlphaFold3 and DeepSeek large models, constructed a multi-node parallel inference scheme based on Google JAX pre-compile, Intel OneCCL communication library, XFT parallel framework, and vLLM inference engine. Achieved over 10x performance improvement for AlphaFold3 and ~7x inference speedup for DeepSeek on 4 CPU nodes.</p>
 </div>
