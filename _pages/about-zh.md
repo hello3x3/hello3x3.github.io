@@ -32,7 +32,7 @@ author_profile: true
         font-family: "Segoe UI", sans-serif;
     }
     .experience-info strong {
-        font-size: 16px;
+        font-size: 18px;
         color: #494E52;
     }
     .experience-info a {
@@ -277,18 +277,18 @@ Experiences
   <div class="experience-card">
       <img src="../images/ZJU.png" alt="ZJU logo" class="experience-logo">
       <div class="experience-info">
-          <strong>Zhejiang University</strong><br>
-          2025.06 - Now<br>
-          Research Intern at <a href="https://aim-uofa.github.io/" target="_blank"><em>AIM Lab</em></a> 
+          <strong><a href="https://www.zju.edu.cn/" target="_blank">浙江大学</a></strong><br>
+          2025.06 - 至今<br>
+          <a href="https://aim-uofa.github.io/" target="_blank"><em>AIM Lab</em></a> 研究实习生
       </div>
   </div>
 
   <div class="experience-card">
       <img src="../images/NWPU.png" alt="NWPU logo" class="experience-logo">
       <div class="experience-info">
-          <strong>Northwestern Polytechnical Univ.</strong><br>
+          <strong><a href="https://en.nwpu.edu.cn/" target="_blank">西北工业大学</strong><br>
           2022.09 - 2026.06<br>
-          B.E, supervised by <a href="https://teacher.nwpu.edu.cn/pengwang.html" target="_blank"><em>Prof. Peng Wang</em></a>
+          工学学士，导师 <a href="https://teacher.nwpu.edu.cn/pengwang.html" target="_blank"><em>王鹏教授</em></a>
       </div>
   </div>
 </div>
@@ -310,7 +310,7 @@ Research & Publications
       <font color="#49bf90"><i>&#9733; Highlight Presentation(3.1% in all submission) &#9733;</i></font><br>
       <a href="https://aim-uofa.github.io/StaMo/" target="_blank">Webpage</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
       <a href="https://arxiv.org/abs/2502.17157" target="_blank">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-      <a href="https://openreview.net/pdf?id=j4LITBSUjs" target="_blank">Code</a>
+      <a href="https://github.com/aim-uofa/StaMo" target="_blank">Code</a>
     </p>
   </div>
 </div>
@@ -319,24 +319,27 @@ Contributions
 ======
 
 <div class="project-item">
-<div class="project-title">🤗 huggingface/lerobot</div>
+<div class="project-title"><a href="https://github.com/huggingface/lerobot" target="_blank">🤗 huggingface/lerobot</a></div>
 <div class="project-meta">贡献者 | GitHub 23k+ stars 🌟</div>
 <p>贡献PR，当指定episodes并需要索引重新映射时，提高了DatasetReader的初始化性能，加速了模型训练过程的数据加载效率。</p>
 <p style="margin-top: 10px;"><a href="https://github.com/huggingface/lerobot" target="_blank">Code</a></p>
 </div>
 
 <div class="project-item">
-<div class="project-title">🐳 docker-easyconnect</div>
+<div class="project-title"><a href="https://github.com/Hagb/docker-easyconnect" target="_blank">🐳 docker-easyconnect</a></div>
 <div class="project-meta">贡献者 | GitHub 5k+ stars 🌟 | Docker Hub 100k+ downloads</div>
 <p>贡献PR，实现chromium最小化适配并集成至项目镜像，成功解决部分网络工具必须通过web端完成登录的适配问题，进一步完善项目的使用场景和适配能力。</p>
-<p style="margin-top: 10px;"><a href="https://github.com/Hagb/docker-easyconnect" target="_blank">Code</a></p>
+<p style="margin-top: 10px;">
+    <a href="https://github.com/Hagb/docker-easyconnect" target="_blank">GitHub</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+    <a href="https://hub.docker.com/r/hagb/docker-easyconnect" target="_blank">Docker Hub</a>
+</p>
 </div>
 
 Projects
 ======
 
 <div class="project-item">
-<div class="project-title">🖥️ ASC 世界大学生超级计算机竞赛优化方案</div>
+<div class="project-title"><a href="https://www.asc-events.net/StudentChallenge/History/2025/index.html" target="_blank">🖥️ ASC 世界大学生超级计算机竞赛</a></div>
 <div class="project-meta">ASC25 国际级一等奖 | NWPU 超算队队长 | 2024.12 - 2025.05</div>
 <p>全面负责团队在ASC超算竞赛中的技术方案设计与实施。针对AlphaFold3与DeepSeek大模型，基于Google JAX pre-compile、Intel OneCCL通信库、XFT并行框架与vLLM推理引擎构建多节点并行推理方案，在4个CPU节点上实现AlphaFold3性能提升10倍以上、DeepSeek推理速度提升约7倍。</p>
 </div>

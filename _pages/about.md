@@ -280,7 +280,7 @@ Experiences
   <div class="experience-card">
       <img src="../images/ZJU.png" alt="ZJU logo" class="experience-logo">
       <div class="experience-info">
-          <strong>Zhejiang University</strong><br>
+          <strong><a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a></strong><br>
           2025.06 - Now<br>
           Research Intern at <a href="https://aim-uofa.github.io/" target="_blank"><em>AIM Lab</em></a> 
       </div>
@@ -289,7 +289,7 @@ Experiences
   <div class="experience-card">
       <img src="../images/NWPU.png" alt="NWPU logo" class="experience-logo">
       <div class="experience-info">
-          <strong>Northwestern Polytechnical Univ.</strong><br>
+          <strong><a href="https://en.nwpu.edu.cn/" target="_blank">Northwestern Polytechnical Univ.</a></strong><br>
           2022.09 - 2026.06<br>
           B.E, supervised by <a href="https://teacher.nwpu.edu.cn/pengwang.html" target="_blank"><em>Prof. Peng Wang</em></a>
       </div>
@@ -313,7 +313,7 @@ My research primarily focuses on **Robot Learning** and **World Models**:
       <font color="#49bf90"><i>&#9733; Highlight Presentation(3.1% in all submission) &#9733;</i></font><br>
       <a href="https://aim-uofa.github.io/StaMo/" target="_blank">Webpage</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
       <a href="https://arxiv.org/abs/2502.17157" target="_blank">PDF</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-      <a href="https://openreview.net/pdf?id=j4LITBSUjs" target="_blank">Code</a>
+      <a href="https://github.com/aim-uofa/StaMo" target="_blank">Code</a>
     </p>
   </div>
 </div>
@@ -322,24 +322,27 @@ Contributions
 ======
 
 <div class="project-item">
-<div class="project-title">🤗 huggingface/lerobot</div>
+<div class="project-title"><a href="https://github.com/huggingface/lerobot" target="_blank">🤗 huggingface/lerobot</a></div>
 <div class="project-meta">Contributor | GitHub 23k+ stars 🌟</div>
 <p>Contributed a PR that improved the initialization performance of DatasetReader when episodes are specified and index remapping is required, accelerating data loading efficiency during model training.</p>
-<p style="margin-top: 10px;"><a href="https://github.com/huggingface/lerobot" target="_blank">Code</a></p>
+<p style="margin-top: 10px;"><a href="https://github.com/huggingface/lerobot" target="_blank">GitHub</a></p>
 </div>
 
 <div class="project-item">
-<div class="project-title">🐳 docker-easyconnect</div>
+<div class="project-title"><a href="https://github.com/Hagb/docker-easyconnect" target="_blank">🐳 docker-easyconnect</a></div>
 <div class="project-meta">Contributor | GitHub 5k+ stars 🌟 | Docker Hub 100k+ downloads</div>
 <p>Contributed a PR to implement minimal chromium adaptation and integrated it into the project image, successfully solving the adaptation issue where some network tools must be logged in via the web interface, further improving the project's use cases and adaptability.</p>
-<p style="margin-top: 10px;"><a href="https://github.com/Hagb/docker-easyconnect" target="_blank">Code</a></p>
+<p style="margin-top: 10px;">
+    <a href="https://github.com/Hagb/docker-easyconnect" target="_blank">GitHub</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+    <a href="https://hub.docker.com/r/hagb/docker-easyconnect" target="_blank">Docker Hub</a>
+</p>
 </div>
 
 Projects
 ======
 
 <div class="project-item">
-<div class="project-title">🖥️ ASC Student Supercomputer Challenge Optimization Scheme</div>
+<div class="project-title"><a href="https://www.asc-events.net/StudentChallenge/History/2025/index.html" target="_blank">🖥️ ASC Student Supercomputer Challenge</div>
 <div class="project-meta">ASC25 International First Prize | NWPU Supercomputing Team Captain | Dec 2024 - May 2025</div>
 <p>Fully responsible for the design and implementation of the team's technical scheme in the ASC Supercomputer Challenge. For the AlphaFold3 and DeepSeek large models, constructed a multi-node parallel inference scheme based on Google JAX pre-compile, Intel OneCCL communication library, XFT parallel framework, and vLLM inference engine. Achieved over 10x performance improvement for AlphaFold3 and ~7x inference speedup for DeepSeek on 4 CPU nodes.</p>
 </div>
