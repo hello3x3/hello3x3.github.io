@@ -288,7 +288,7 @@ Experiences
       <div class="experience-info">
           <strong><a href="https://en.nwpu.edu.cn/" target="_blank">西北工业大学</a></strong><br>
           2022.09 - 2026.06<br>
-          工学学士，导师 <a href="https://teacher.nwpu.edu.cn/pengwang.html" target="_blank"><em>王鹏教授</em></a>
+          工学学士，指导教师 <a href="https://teacher.nwpu.edu.cn/pengwang.html" target="_blank"><em>王鹏教授</em></a>
       </div>
   </div>
 </div>
@@ -361,7 +361,6 @@ Honors & Awards
 <h3>🎖️ 荣誉称号</h3>
 <ul>
 <li>双创之星（全校10人，2025）</li>
-<li>校优秀大学生（2023、2024、2025）</li>
 </ul>
 
 <h3>🥇 竞赛获奖（部分）</h3>
@@ -369,7 +368,7 @@ Honors & Awards
 <li>ASC世界大学生超级计算机竞赛 - <span style="color: #2E5C8A;"><strong>国际级一等奖</strong></span>（2025）</li>
 <li>中国机器人及人工智能大赛 - <span style="color: #2E5C8A;"><strong>国家级一等奖</strong></span>（2025）</li>
 <li>美国大学生数学建模竞赛 - <span style="color: #2E5C8A;"><strong>国际级一等奖/M奖</strong></span>（2025）</li>
-<li>中国国际大学生创新大赛 - 国家级银奖（2024）</li>
+<li>中国国际大学生创新大赛 - <span style="color: #2E5C8A;"><strong>国家级金奖</strong></span>（2025）</li>
 <li>全国大学生数学建模竞赛 - 国家级二等奖（2024）</li>
 <li>"挑战杯"全国大学生课外学术科技作品竞赛 - 省级特等奖（2025）</li>
 </ul>

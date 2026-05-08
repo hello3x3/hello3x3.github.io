@@ -364,7 +364,6 @@ Honors & Awards
 <h3>🎖️ Honorary Titles</h3>
 <ul>
 <li>Innovation and Entrepreneurship Star (Top 10 campus-wide, 2025)</li>
-<li>Outstanding Student (2023, 2024, 2025)</li>
 </ul>
 
 <h3>🥇 Competition Awards (Selected)</h3>
@@ -372,7 +371,7 @@ Honors & Awards
 <li>ASC Student Supercomputer Challenge - <span style="color: #2E5C8A;"><strong>International First Prize</strong></span> (2025)</li>
 <li>China Robotics and Artificial Intelligence Competition - <span style="color: #2E5C8A;"><strong>National First Prize</strong></span> (2025)</li>
 <li>Mathematical Contest in Modeling (MCM/ICM) - <span style="color: #2E5C8A;"><strong>First Prize / Meritorious Winner</strong></span> (2025)</li>
-<li>China International College Students' Innovation Competition - National Silver Award (2024)</li>
+<li>China International College Students' Innovation Competition - <span style="color: #2E5C8A;"><strong>National Gold Award</strong></span> (2024)</li>
 <li>Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) - National Second Prize (2024)</li>
 <li>"Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition - Provincial Special Prize (2025)</li>
 </ul>
